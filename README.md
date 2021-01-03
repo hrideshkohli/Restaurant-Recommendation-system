@@ -2,6 +2,8 @@
 
 This project is about creating a machine learning based restaurant recommendation system. A recommender system is an extended class of applications that involves predicting responses to a variety of options.
 
+![alt text](https://github.com/hrideshkohli/Restaurant-Recommendation-system/blob/main/img.jpg)
+
 ## How the Restaurant Recommendation System Works?
 
 The rapid growth in data collection has led to a new era of a data-driven world. Data is used to create more efficient systems and that’s where recommender systems come in.
@@ -15,6 +17,7 @@ These are active information filtering systems that personalize the information 
 -Content-based filtering
 -Collaborative filtering
 
+![alt text](https://github.com/hrideshkohli/Restaurant-Recommendation-system/blob/main/collaborating.JPG)
 A Restaurant recommendation system uses content-based filtering. This method only uses information about the description and attributes of items that users have previously consumed to model user preferences.
 
 In other words, these algorithms try to recommend things similar to what a user liked in the past. The dataset I’ll be using here consists of restaurants in Bangalore, India, collected from Zomato.
